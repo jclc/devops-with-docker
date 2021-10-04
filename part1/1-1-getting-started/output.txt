@@ -1,0 +1,4 @@
+CONTAINER ID   IMAGE     COMMAND                  CREATED          STATUS                      PORTS     NAMES
+cb1f7c5f26de   fedora    "/bin/bash"              49 seconds ago   Up 49 seconds                         eager_chaplygin
+90c800a8dec4   ubuntu    "bash"                   52 seconds ago   Exited (0) 19 seconds ago             wizardly_lehmann
+da636b270f93   nginx     "/docker-entrypoint.…"   59 seconds ago   Exited (0) 19 seconds ago             vigorous_leavitt

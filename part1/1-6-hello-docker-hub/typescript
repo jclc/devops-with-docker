@@ -1,0 +1,10 @@
+Script started on 2021-10-04 04:13:11+03:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="117" LINES="49"]
+]0;jclc@nakkimuki:~/devel/devops-with-docker/part1/1-6-hello-docker-hub[?2004h[01;32m[jclc@nakkimuki[01;37m 1-6-hello-docker-hub[01;32m]$[00m s[Kdocker -[Krun -it devopsdockeruh/pull_exre[K[Kercise
+[?2004l[1G[0JGive me the password: [23Gbasics
+You found the correct password. Secret message is:
+"This is the secret message"
+
+]0;jclc@nakkimuki:~/devel/devops-with-docker/part1/1-6-hello-docker-hub[?2004h[01;32m[jclc@nakkimuki[01;37m 1-6-hello-docker-hub[01;32m]$[00m [?2004l
+exit
+
+Script done on 2021-10-04 04:13:31+03:00 [COMMAND_EXIT_CODE="0"]

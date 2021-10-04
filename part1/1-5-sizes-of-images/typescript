@@ -1,0 +1,23 @@
+Script started on 2021-10-04 04:09:31+03:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="117" LINES="49"]
+]0;jclc@nakkimuki:~/devel/devops-with-docker/part1/1-5-sizes-of-images[?2004h[01;32m[jclc@nakkimuki[01;37m 1-5-sizes-of-images[01;32m]$[00m so[K[Kdocker exec c0 [K[K[K-it c0 sh
+[?2004l/usr/src/app # [6n/usr/src/app # [Jtai/usr/src/app # tail [J-f ./text.log
+Secret message is: 'You can find the source code here: https://github.com/docker-hy'
+2021-10-04 01:10:23 +0000 UTC
+2021-10-04 01:10:25 +0000 UTC
+2021-10-04 01:10:27 +0000 UTC
+2021-10-04 01:10:29 +0000 UTC
+2021-10-04 01:10:31 +0000 UTC
+Secret message is: 'You can find the source code here: https://github.com/docker-hy'
+2021-10-04 01:10:33 +0000 UTC
+2021-10-04 01:10:35 +0000 UTC
+2021-10-04 01:10:37 +0000 UTC
+2021-10-04 01:10:39 +0000 UTC
+2021-10-04 01:10:41 +0000 UTC
+Secret message is: 'You can find the source code here: https://github.com/docker-hy'
+2021-10-04 01:10:43 +0000 UTC
+^C
+/usr/src/app # [6n
+]0;jclc@nakkimuki:~/devel/devops-with-docker/part1/1-5-sizes-of-images[?2004h[01;32m[jclc@nakkimuki[01;37m 1-5-sizes-of-images[01;32m]$[00m [?2004l
+exit
+
+Script done on 2021-10-04 04:10:48+03:00 [COMMAND_EXIT_CODE="130"]
