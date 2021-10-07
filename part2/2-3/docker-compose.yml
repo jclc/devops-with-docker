@@ -1,0 +1,13 @@
+version: "3.5"
+
+services:
+
+  backend:
+    image: jclc/example-backend
+    ports:
+      - 8080:8080
+      
+  frontend:
+    image: jclc/example-frontend
+    ports:
+      - 5000:5000
