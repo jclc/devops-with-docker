@@ -1,0 +1,31 @@
+version: "3.5"
+
+services:
+  frontend:
+    image: km-frontend
+    container_name: km-frontend
+    ports:
+      - 3000:3000
+
+  backend:
+    image: km-backend
+    container_name: km-backend
+    ports:
+      - 5000:5000
+    depends_on:
+      - training
+    volumes:
+      - model:/src/model
+      
+  training:
+    image: km-training
+    container_name: km-training
+    volumes:
+      - model:/src/model
+      - data:/src/data
+      - images:/src/imgs
+
+volumes:
+  model:
+  data:
+  images:
